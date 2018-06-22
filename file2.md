@@ -1,13 +1,13 @@
 
 Other markdown file. 
 
-Navigate(link) to readme: https://github.com/sonuchavakula/markdown-challenge-IT2100/blob/master/File%20%232
+Navigate(link) to readme: [readme] https://github.com/sonuchavakula/markdown-challenge-IT2100/blob/master/File%20%232
 
 H2 sized header: ##Hello
 
 H4 sized header: ####Hello
 
-Link to external website: https://sonuchavakula.github.io/
+Link to external website: [external webpage] https://sonuchavakula.github.io/
 
 Image in directory: p1.jpg
 
