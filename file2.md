@@ -49,12 +49,9 @@ Numbered List:
 1. Item
 2. Item
 
-Table:
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Cars  | Bikes |
+| ------------- | ------------- |
+| Mercedes AMG GTR  | Kawasaki H2R  |
 
 Bolded text:
 **text**
