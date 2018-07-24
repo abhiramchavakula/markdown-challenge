@@ -1,7 +1,7 @@
 
 Other markdown file. 
 
-Navigate(link) to readme: [readme](https://github.com/sonuchavakula/markdown-challenge-IT2100/blob/master/File%20%232)
+Navigate(link) to readme: [readme](https://github.com/sonuchavakula/markdown-challenge/blob/master/README.md)
 
 H2 sized header: ##Hello
 
