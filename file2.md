@@ -9,7 +9,7 @@ H4 sized header: ####Hello
 
 Link to external website: [external webpage](https://sonuchavakula.github.io/)
 
-Image in directory: p1.jpg
+Image in directory: ![My Photo](p1.jpg)
 
 Image from web: ![Audi RS5]( http://www.carverse.com/postimages/thumbnail_1422213078.jpg)
 
