@@ -11,7 +11,7 @@ Link to external website: [external webpage](https://sonuchavakula.github.io/)
 
 Image in directory: p1.jpg
 
-Image from web: http://www.carverse.com/news/tag-motorsports-audi-rs5-on-hre-classic-300s/
+Image from web: ![Audi RS5]( http://www.carverse.com/postimages/thumbnail_1422213078.jpg)
 
 Code Block:
 ~~~~
